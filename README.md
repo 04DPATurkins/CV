@@ -8,8 +8,7 @@ bilde -https://sun9-41.userapi.com/impf/i7E2LAY-qOU4Ve8Bdi3POZE17uMWFbEfmqx2Dw/j
 Saraksts: 5 sistēmu programmēšanas un 4 krievu valodas
 
 
-emoji - 🚀
-git config user.name "turkinsDP1-4"
-git config user.email "antonturkin777@gmail.com"
+emoji - 🚀 
+
 ```
 
