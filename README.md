@@ -8,23 +8,6 @@ Citata- Tas, ko mēs meklējam, ir tas, kas mēs esam.
 Koda gabals:
 skaitlis = int(input('Ievadiet skaitli'))
 print(skaitlis)
-![alt text](oZC4yJnbcPI.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Saraksts:
