@@ -1,11 +1,46 @@
 # CV
 ```
-citata- Tas, ko mēs meklējam, ir tas, kas mēs esam.
+# Antons Turkins
+
+
+Citata- Tas, ko mēs meklējam, ir tas, kas mēs esam.
+
 Koda gabals:
 skaitlis = int(input('Ievadiet skaitli'))
 print(skaitlis)
-bilde -https://sun9-41.userapi.com/impf/i7E2LAY-qOU4Ve8Bdi3POZE17uMWFbEfmqx2Dw/jUnxMRxZkdo.jpg?size=757x1600&quality=96&proxy=1&sign=676a7bc35a5dca54e434ea80513eee2e&type=album
-Saraksts: 5 sistēmu programmēšanas un 4 krievu valodas
+![alt text](oZC4yJnbcPI.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Saraksts:
+| Priekšmets            | Laiks              |
+| -------------         |:------------------:|
+|1.Nav                  |                    |
+|2.Sistēmu programmēšana| 09:15 - 09:55      |
+|3.Sistēmu programmēšana| 10:10 - 10:50      |
+|4.Sistēmu programmēšana| 10:55 - 11:35      | 
+|5.Sistēmu programmēšana| 11:45 - 12:25      | 
+|6.Sistēmu programmēšana| 12:30 - 13:10      |
+|7.Nav                  |                    | 
+|8.Krievu valoda        | 14:05 - 14:45      | 
+|9.Krievu valoda        | 14:50 - 15:30      |
+|10.Krievu valoda       | 15:35 - 16:15      | 
+|11.Krievu valoda       | 16:20 - 17:00      | 
 
 
 emoji - 🚀 
